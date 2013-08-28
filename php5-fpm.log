@@ -1,0 +1,21 @@
+[18-Mar-2013 08:46:39] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[18-Mar-2013 08:46:39] NOTICE: fpm is running, pid 3607
+[18-Mar-2013 08:46:39] NOTICE: ready to handle connections
+[18-Mar-2013 08:46:40] NOTICE: Reloading in progress ...
+[18-Mar-2013 08:46:40] NOTICE: reloading: execvp("/usr/sbin/php5-fpm", {"/usr/sbin/php5-fpm", "--fpm-config", "/etc/php5/fpm/php-fpm.conf"})
+[18-Mar-2013 08:46:40] NOTICE: using inherited socket fd=7, "127.0.0.1:9000"
+[18-Mar-2013 08:46:40] NOTICE: using inherited socket fd=7, "127.0.0.1:9000"
+[18-Mar-2013 08:46:40] NOTICE: fpm is running, pid 3690
+[18-Mar-2013 08:46:40] NOTICE: ready to handle connections
+[18-Mar-2013 08:46:40] NOTICE: Finishing ...
+[18-Mar-2013 08:46:40] NOTICE: exiting, bye-bye!
+[18-Mar-2013 08:46:42] ERROR: No pool defined. at least one pool section must be specified in config file
+[18-Mar-2013 08:46:42] ERROR: failed to post process the configuration
+[18-Mar-2013 08:46:42] ERROR: FPM initialization failed
+[18-Mar-2013 08:46:42] ERROR: No pool defined. at least one pool section must be specified in config file
+[18-Mar-2013 08:46:42] ERROR: failed to post process the configuration
+[18-Mar-2013 08:46:42] ERROR: FPM initialization failed
+[18-Mar-2013 08:47:17] ERROR: No pool defined. at least one pool section must be specified in config file
+[18-Mar-2013 08:47:17] ERROR: failed to post process the configuration
+[18-Mar-2013 08:47:17] ERROR: FPM initialization failed
